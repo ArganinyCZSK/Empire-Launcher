@@ -1,0 +1,31 @@
+﻿(Arg) Empire Launcher – License and Terms of Use
+Copyright (c) 2026 Jan Hepp / ArganinyCZSK. All rights reserved.
+
+1. OWNERSHIP AND RESTRICTIONS
+This program is proprietary software owned by Jan Hepp / ArganinyCZSK ("the Owner").
+Without the prior written permission of the Owner you may NOT:
+  • modify, edit, decompile, disassemble or create derivative works of the program;
+  • redistribute, publish, share, sublicense or otherwise make the program available to third parties;
+  • sell, rent, lease or use the program for any commercial purpose.
+
+2. NO WARRANTY, NO LIABILITY
+The program is purely EXPERIMENTAL and is provided "AS IS", without any warranty of any kind,
+express or implied. The Owner accepts NO responsibility or liability for any damage to the game,
+game saves, mods, the operating system, hardware or any other data or property that may result from
+using or being unable to use the program, and no such damage will be compensated.
+You use the program entirely at your own risk. Always keep backups of your saves.
+
+3. DATA AND PRIVACY
+The program stores its settings, profiles, packages and backups only locally on your computer
+(%LocalAppData%\EmpireLauncher and the modpack staging folder). It does not collect, upload or
+share any personal data or usage statistics. Internet access is used only to show public Steam
+Workshop information about mods you already have.
+
+4. THIRD PARTIES
+Empire: Total War and Total War are trademarks of The Creative Assembly / SEGA. Steam and the Steam Workshop are
+trademarks of Valve Corporation. This program is not affiliated with or endorsed
+by The Creative Assembly, SEGA or Valve. Mods, images and descriptions shown in the program belong to their
+respective authors.
+
+5. ACCEPTANCE
+If you do not agree with these terms, do not download, install or use the program.
